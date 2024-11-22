@@ -1,0 +1,95 @@
+.titulo{
+    color: rgb(247, 159, 247);
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 20px ;
+}
+
+ul{
+    padding: 0%;
+}
+
+ul li a {
+     text-decoration: none;
+     
+    }
+
+ul li {
+    list-style: none;
+    color: rgb(247, 159, 247);
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 20px ;
+}
+
+.logo{
+    width: 100px;
+    height: auto;
+}
+
+/*Estilos Redes*/
+.FotoServicios {
+  width: 75px;
+  height: auto;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/*Estilos index*/
+
+.img-principal{
+    width: 500px;
+    height: auto;
+}
+
+footer{
+    list-style: none;
+    color: rgb(247, 159, 247);
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 20px ;
+    margin-top: 50px;
+}
+
+.grupo-productos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.grupo-prod{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.prod{
+    width: 250px; 
+    height: auto;
+    margin: 20px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px grey;
+}
+
+body{
+        background-color: rgb(248, 236, 247);
+}
+
+.nos{
+    margin: 100px;
+    padding: 15px;
+    box-shadow: 5px 5px 5px grey;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.imgproduc{
+width: 200px;
+height: 200px;
+}
